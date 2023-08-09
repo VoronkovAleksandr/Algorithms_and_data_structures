@@ -1,3 +1,5 @@
+package HomeWork003;
+
 public class LinkedList<T extends Comparable<T>> {
     private Node root;
     private int size;
